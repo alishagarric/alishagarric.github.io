@@ -1,0 +1,30 @@
+a.aheader {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+  position: fixed;
+  top: -5px;
+  left: -5px;
+  bottom: -5px;
+  background-color: grey;
+  width: 25%;
+  height: auto;
+
+}
+
+.text {
+  text-align: center;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.4;
+
+}
+
+.videos {
+  position: absolute;
+  left: 25%;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: black;
+}
