@@ -20,7 +20,7 @@ a.aheader {
   color: white;
   font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.4;
-
+  overflow: auto;
 }
 
 .videos {
